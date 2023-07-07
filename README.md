@@ -1,11 +1,8 @@
-# Praticando-Boostrap
+<h1 align="center"> Praticando-Boostrap ☕ </h1>
 Colocando em Prática conhecimentos adquiridos com o Framework Boostrap no Curso da DIO !!! 
 
 - <b><i>Projeto Cafeteria - Coffee House</i></b>
-<pre>
-  <a href="https://dev-nathansilva.github.io/Praticando-Boostrap/" target="_blank">Clique aqui</a> para acessar o site da cafeteria !
-</pre>
+---
+<p align="center"><a href="https://dev-nathansilva.github.io/Praticando-Boostrap/" target="_blank">Clique aqui</a> para acessar o site da cafeteria !</p>
 
-<hr>
-
-![Cafeteria (1)](https://github.com/Dev-nathansilva/Praticando-Boostrap/assets/124079997/8833ead1-8b70-4a87-b8fe-8f6c33d77b2a)
+![Coffee](https://github.com/Dev-nathansilva/Praticando-Boostrap/assets/124079997/8172e5f1-8ef1-4961-ada4-114e68340c2d)
